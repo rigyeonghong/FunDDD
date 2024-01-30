@@ -7,10 +7,11 @@
 - 도메인은 다른 도메인과 연동하여 완전한 기능을 제공한다
 - 개발적 측면에서는 도메인이 제공해야할 모든 기능을 직접 구현해야하는 것은 아니고, 외부 시스템을 사용하기도 한다
 - 도메인은 고정된 하위 도메인이 존재하는것이 아닌 대상,상황에 따라 달라진다
+![image](https://github.com/GetMapping/FunDDD/assets/26589901/c3bebf02-052e-4112-9b0c-7b1495ab0ee0)
 
  
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/59a94395-18fc-496f-bddd-69dc0359c611/00d7c354-aa5a-462d-8179-c524b9a57fcf/Untitled.png)
+
 
 ## 1.2 도메인 전문가와 개발자간 지식 공유
 
@@ -33,10 +34,7 @@
 - 도메인 모델은 객체상태 다이어그램 등이나 uml이 아닌 그래프, 수학공식 등 다양한 방식 사용 가능
 - 구현 모델이 개념모델을 따르도록 할수는 있다 (객체기반모델→객체지향언어/수학모델→함수)
 - 도메인은 여러 하위도메인으로 구성되어있는데, 도메인마다 용어의 의미가 달라질 수 있음으로 하나의 다이어그램에 모델링 하지 않고 , 각 하위 도메인마다 별도로 모델을 만들어야한다
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/59a94395-18fc-496f-bddd-69dc0359c611/c6e50032-f778-467c-a26e-720bead9ed34/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/59a94395-18fc-496f-bddd-69dc0359c611/eb2e1fba-8c82-44d3-b297-448f04a2c45d/Untitled.png)
+![image](https://github.com/GetMapping/FunDDD/assets/26589901/2b591a10-8407-493b-b0f8-215c6ada138b)
 
 ## 1.4 도메인 모델 패턴
 
