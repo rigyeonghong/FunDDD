@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "7d7c00ac3ed822ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "0161db0003906fd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05d9709f4b36d1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rigyeong/CH2/CH2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23115b235d083051",
+    "type": "split",
+    "children": [
+      {
+        "id": "e016a9da6bced5b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "448855ab7e269f6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c6b81c4dbcd686f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "271ef0731f871f18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "ac363cae615f0710",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d95dc179e2434c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01069ceb2fcab3f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rigyeong/CH2/CH2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89a588b1a1403792",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rigyeong/CH2/CH2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d95099f81c3c8d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "846c82f3bfdef9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "rigyeong/CH2/CH2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "05d9709f4b36d1f2",
+  "lastOpenFiles": [
+    "rigyeong/CH2/Pasted image 20240208133620.png",
+    "rigyeong/CH1/1.6 엔티티와 밸류.md",
+    "rigyeong/CH2/CH2.md",
+    "rigyeong/CH2/Pasted image 20240207215911.png",
+    "rigyeong/CH2/Pasted image 20240208131144.png",
+    "rigyeong/CH1/1.2 도메인 전문가와 개발자 간 지식 공유.md",
+    "rigyeong/CH1/1.3 도메인 모델.md",
+    "rigyeong/CH1/1.4 도메인 모델 패턴.md",
+    "rigyeong/CH1/1.5 도메인 모델  도출.md",
+    "rigyeong/CH2/Pasted image 20240208121555.png",
+    "rigyeong/CH2/Pasted image 20240208120421.png",
+    "rigyeong/CH2/Pasted image 20240208120033.png",
+    "rigyeong/CH2/Pasted image 20240208115907.png",
+    "rigyeong/CH2/Pasted image 20240208113924.png",
+    "rigyeong/CH2/Pasted image 20240208113332.png",
+    "rigyeong/CH2/표현 영역과 응용 서비스 관계.png",
+    "rigyeong/CH2/스크린샷 2024-02-07 215833.png",
+    "rigyeong/CH2",
+    "eonju/CH1.md",
+    "rigyeong/CH2/무제 파일.md",
+    "rigyeong/CH2",
+    "seungeun/CH1.md",
+    "yeji/CH1.md",
+    "kenokim/CH01.md"
+  ]
+}
