@@ -11,9 +11,11 @@
             "id": "05d9709f4b36d1f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "rigyeong/CH2/Pasted image 20240207215911.png"
+                "file": "rigyeong/CH2/CH2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH2/Pasted image 20240207215911.png",
+                "file": "rigyeong/CH2/CH2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH2/Pasted image 20240207215911.png",
+                "file": "rigyeong/CH2/CH2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH2/Pasted image 20240207215911.png"
+                "file": "rigyeong/CH2/CH2.md"
               }
             }
           }
@@ -146,10 +148,10 @@
   },
   "active": "05d9709f4b36d1f2",
   "lastOpenFiles": [
+    "rigyeong/CH2/Pasted image 20240207215911.png",
     "rigyeong/CH2/CH2.md",
     "rigyeong/CH2/Pasted image 20240208133620.png",
     "rigyeong/CH1/1.6 엔티티와 밸류.md",
-    "rigyeong/CH2/Pasted image 20240207215911.png",
     "rigyeong/CH2/Pasted image 20240208131144.png",
     "rigyeong/CH1/1.2 도메인 전문가와 개발자 간 지식 공유.md",
     "rigyeong/CH1/1.3 도메인 모델.md",
