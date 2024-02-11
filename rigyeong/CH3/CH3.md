@@ -1,1 +1,4 @@
-![image](obsidian://open?vault=DDD&file=rigyeong%2FCH3%2FPasted%20image%2020240211171903.png)
+## 3.1 애그리거트
+
+* 애그리거트 
+	상위 수준에서 모델 바라봐 복잡한 도메인을 이해하고 관리하기 쉬운 단위로 만드는 방법
