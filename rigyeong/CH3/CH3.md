@@ -1,1 +1,1 @@
-![[Pasted image 20240211171903.png]]
+![image](obsidian://open?vault=DDD&file=rigyeong%2FCH3%2FPasted%20image%2020240211171903.png)
