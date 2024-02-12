@@ -11,8 +11,12 @@
             "id": "62867bbb91e10c48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rigyeong/CH3/CH3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rigyeong/CH3/CH3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rigyeong/CH3/CH3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "rigyeong/CH3/CH3.md"
               }
             }
           }
@@ -140,14 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "448855ab7e269f6d",
+  "active": "62867bbb91e10c48",
   "lastOpenFiles": [
+    "rigyeong/CH3/image/Pasted image 20240211182015.png",
+    "rigyeong/CH3/CH3.md",
     "conflict-files-obsidian-git.md",
+    "rigyeong/CH3/image",
     "rigyeong/CH3/CH3.md",
     "새 텍스트 문서.txt",
     "무제 파일.md",
     "~$README.md",
-    "rigyeong/CH3/image/Pasted image 20240211182015.png",
     "rigyeong/CH2/CH2.md",
     "rigyeong/CH3/image",
     "rigyeong/CH3",
