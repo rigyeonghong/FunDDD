@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0161db0003906fd6",
+        "id": "5ae4b27b32bc6263",
         "type": "tabs",
         "children": [
           {
-            "id": "05d9709f4b36d1f2",
+            "id": "f86a9390cfbe421b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH2/CH2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH2/CH2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH2/CH2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH2/CH2.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "05d9709f4b36d1f2",
+  "active": "f86a9390cfbe421b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "rigyeong/CH3/CH3.md",
+    "새 텍스트 문서.txt",
+    "무제 파일.md",
+    "~$README.md",
+    "rigyeong/CH3/image/Pasted image 20240211182015.png",
     "rigyeong/CH2/CH2.md",
+    "rigyeong/CH3/image",
     "rigyeong/CH3",
     "rigyeong/CH1/1.2 도메인 전문가와 개발자 간 지식 공유.md",
     "rigyeong/CH1/1.1 도메인이란.md",
@@ -166,7 +172,6 @@
     "rigyeong/CH2/Pasted image 20240208115907.png",
     "rigyeong/CH2/Pasted image 20240208113924.png",
     "rigyeong/CH2/Pasted image 20240208113332.png",
-    "rigyeong/CH2/표현 영역과 응용 서비스 관계.png",
     "rigyeong/CH2",
     "eonju/CH1.md",
     "rigyeong/CH2/무제 파일.md",

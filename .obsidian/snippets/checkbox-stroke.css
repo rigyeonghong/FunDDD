@@ -1,0 +1,4 @@
+.markdown-preview-view ul > li.task-list-item.is-checked {
+    text-decoration: line-through;
+    color: var(--text-faint);
+}
