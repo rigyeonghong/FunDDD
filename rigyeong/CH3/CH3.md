@@ -6,3 +6,7 @@
 > * 애그리거트에 속한 객체는 유사/동일한 라이프 사이클 가짐
 > <img src="https://github.com/rigyeonghong/FunDDD/blob/main/rigyeong/CH3/image/Pasted%20image%2020240211182015.png" width= "50" height"50">
 
+## 3.2 애그리거트 루트
+
+### 애그리거트의 대표 엔티티
+> 애그리거트의 일관성 깨지지 않도록 애그리거트 전체 관리 
