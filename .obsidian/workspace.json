@@ -11,11 +11,9 @@
             "id": "62867bbb91e10c48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md",
-                "mode": "source",
-                "source": false
+                "file": "rigyeong/CH3/image/Pasted image 20240211182015.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md",
+                "file": "rigyeong/CH3/image/Pasted image 20240211182015.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md",
+                "file": "rigyeong/CH3/image/Pasted image 20240211182015.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md"
+                "file": "rigyeong/CH3/image/Pasted image 20240211182015.png"
               }
             }
           }
@@ -148,14 +146,14 @@
   },
   "active": "62867bbb91e10c48",
   "lastOpenFiles": [
+    "rigyeong/CH3/CH3.md",
+    "rigyeong/CH1/1.6 엔티티와 밸류.md",
     "rigyeong/CH1/1.4 도메인 모델 패턴.md",
     "rigyeong/CH1/1.3 도메인 모델.md",
     "rigyeong/CH1/1.2 도메인 전문가와 개발자 간 지식 공유.md",
     "rigyeong/CH1/1.1 도메인이란.md",
     "rigyeong/CH1/CH1.md",
     "rigyeong/CH2/CH2.md",
-    "rigyeong/CH1/1.6 엔티티와 밸류.md",
-    "rigyeong/CH3/CH3.md",
     "rigyeong/CH3/image/Pasted image 20240211182015.png",
     "rigyeong/CH1/1.7 도메인 용어와 유비쿼터스 언어.md",
     "rigyeong/CH1/1.5 도메인 모델  도출.md",
