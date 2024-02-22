@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH2/CH2.md",
+                "file": "rigyeong/CH4/CH4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH2/CH2.md",
+                "file": "rigyeong/CH4/CH4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH2/CH2.md",
+                "file": "rigyeong/CH4/CH4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH2/CH2.md"
+                "file": "rigyeong/CH4/CH4.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "62867bbb91e10c48",
   "lastOpenFiles": [
+    "rigyeong/CH2/CH2.md",
     "rigyeong/CH4/CH4.md",
     "rigyeong/CH3/CH3.md",
     "rigyeong/CH3/image/Pasted image 20240211182015.png",
@@ -158,7 +159,6 @@
     "rigyeong/CH1/1.2 도메인 전문가와 개발자 간 지식 공유.md",
     "rigyeong/CH1/1.1 도메인이란.md",
     "rigyeong/CH1/CH1.md",
-    "rigyeong/CH2/CH2.md",
     "rigyeong/CH1/1.7 도메인 용어와 유비쿼터스 언어.md",
     "rigyeong/CH1/1.5 도메인 모델  도출.md",
     "conflict-files-obsidian-git.md",
