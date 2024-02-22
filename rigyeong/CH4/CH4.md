@@ -18,4 +18,9 @@ public interface OrderRepository {
 ex. 주문 애그리거트
 	- Order 루트 엔티티
 	- OrderLine, Orderer, ShippingInfo 등 객체
-	- 
+
+## 4.2 스프링 데이터 JPA를 이용한 리포지터리 구현
+
+* 스프링 데이터 JPA : 지정 규칙에 맞게 리포지터리 인터페이스 정의시 리포지터리를 구현한 객체 알아서 만들어 스프링 빈으로 등록.
+	(해당 책 스프링 데이터 JPA 사용시, 리포지터리 인터페이스 어떻게 정의하는지 공부)
+	
