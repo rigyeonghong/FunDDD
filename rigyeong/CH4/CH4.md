@@ -8,9 +8,14 @@
 - 인프라 영역 : 리포지터리 구현 클래스 <-> domain.impl : 의존성 높아짐
 
 
-리포지터리 인터페이스는 애그리거트 루트 기준으로 작성.
+* 리포지터리 인터페이스는 애그리거트 루트 기준으로 작성.
 ```
 public interface OrderRepository {
-	
+	Order findById(OrderNo no);
+	void save(Order order);
 }
 ```
+ex. 주문 애그리거트
+	- Order 루트 엔티티
+	- OrderLine, Orderer, ShippingInfo 등 객체
+	- 
