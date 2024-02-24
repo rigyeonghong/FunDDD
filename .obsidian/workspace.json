@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH4/CH4.md",
+                "file": "rigyeong/CH5/CH5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH4/CH4.md",
+                "file": "rigyeong/CH5/CH5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH4/CH4.md",
+                "file": "rigyeong/CH5/CH5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH4/CH4.md"
+                "file": "rigyeong/CH5/CH5.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "62867bbb91e10c48",
   "lastOpenFiles": [
-    "rigyeong/CH1/1.6 엔티티와 밸류.md",
     "rigyeong/CH4/CH4.md",
-    "rigyeong/CH2/CH2.md",
+    "rigyeong/CH5/CH5.md",
     "rigyeong/CH3/CH3.md",
+    "rigyeong/CH5",
+    "rigyeong/CH1/1.6 엔티티와 밸류.md",
+    "rigyeong/CH2/CH2.md",
     "rigyeong/CH3/image/Pasted image 20240211182015.png",
     "rigyeong/CH4",
     "rigyeong/CH1/1.4 도메인 모델 패턴.md",
