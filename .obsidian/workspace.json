@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "55450cf74825985a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ac363cae615f0710",
@@ -157,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "55450cf74825985a",
+  "active": "62867bbb91e10c48",
   "lastOpenFiles": [
     "rigyeong/CH4/CH4.md",
     "rigyeong/CH5/CH5.md",
