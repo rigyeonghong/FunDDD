@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55450cf74825985a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "62867bbb91e10c48",
+  "active": "55450cf74825985a",
   "lastOpenFiles": [
     "rigyeong/CH4/CH4.md",
     "rigyeong/CH5/CH5.md",
