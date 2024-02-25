@@ -19,11 +19,11 @@
 	}
 	```
 	* agg 파라미터 : 검사 대상인 객체
-		ex1) 스펙을 리포지터리(도메인 모델 속한) 사용시 : agg 는 애그리거트 루트
-		ex2) 스펙을 DAO(데이터 접근)에 사용시 : agg는 검색 결과로 리턴할 데이터 객체
+		* ex1) 스펙을 리포지터리(도메인 모델 속한) 사용시 : agg 는 애그리거트 루트
+		* ex2) 스펙을 DAO(데이터 접근)에 사용시 : agg는 검색 결과로 리턴할 데이터 객체
 
 
-* 예시) 특정 고객의 주문인지 확인하기 위해 주문자 ID를 기준
+* 예시1) Order 애그리거트 객체가 특정 고객의 주문인지 확인하기 위해 주문자 ID를 기준
 ```java
 public class OrdererSpec implements Specification<Order> { 
 	private String ordererId; 
@@ -34,6 +34,11 @@ public class OrdererSpec implements Specification<Order> {
 	
 	public boolean isSatisfiedBy(Order agg) { 
 		return agg.getOrdererId().getMemberId().getId().equals(orderId);
+		// 주문자 ID 객체 가져와 -> 회원 ID 객체 가져와 -> 실제 주문자 ID 가져와 비
 	}  
 }
+```
+
+* 예시2) 리포지터리나 DAO는 검색 대상 걸러내는 용도로 사용
+```java
 ```
