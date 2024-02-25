@@ -22,3 +22,18 @@
 		ex1) 스펙을 리포지터리(도메인 모델 속한) 사용시 : agg 는 애그리거트 루트
 		ex2) 스펙을 DAO(데이터 접근)에 사용시 : agg는 검색 결과로 리턴할 데이터 객체
 
+
+* 예시) 특정 고객의 주문인지 확인하기 위해 주문자 ID를 기준
+```java
+public class OrdererSpec implements Specification<Order> { 
+	private String ordererId; 
+	
+	public OrdererIdSpec(String ordererId) { // 생성자에서 주문자ID 받아 저장
+		this.ordererId = ordererId; 
+	} 
+	
+	public boolean isSatisfiedBy(Order agg) { 
+		return agg.getOrdererId().getMemberId().getId().equals(orderId);
+	}  
+}
+```
