@@ -57,12 +57,12 @@ public class MemoryOrderRepository implements OrderRepository {
 * 스프링 데이터 JPA 에서 제공하는 Specification (스펙 인터페이스)
 	* JPA 정적 메타 모델 
 	```java
-		cb.equal(root.get(OrderSummary_.ordererId), ordererId); // 정적 메타 모델 이용
+	cb.equal(root.get(OrderSummary_.ordererId), ordererId); // 정적 메타 모델 이용
 	```
 	```java
-		cb.equal(root.<String>get("ordererId"), ordererId); // 문자열 이용
+	cb.equal(root.<String>get("ordererId"), ordererId); // 문자열 이용
 	```
-		* 하이버네이트와 같은 JPA 프로바이더는 정적 메타 모델 생성하는 도구 제공.
+	* 하이버네이트와 같은 JPA 프로바이더는 정적 메타 모델 생성하는 도구 제공.
 	* 함수형 인터페이스이므로, 람다식 이용해서 객체 생성 가능.
 	* 스펙 생성 필요할 경우, 스팩 생성 기능 제공 클래스 이용해 간결하게 스펙 생성 가능.
 
@@ -74,9 +74,9 @@ public class MemoryOrderRepository implements OrderRepository {
 * and와 or 메서드로 두 스펙 조합 가능
 * not 메서드
 * where 메서드 : nullPointException 방지 가능
-	```java
-		Specification.where(createNullableSpec()).and(createOtherSpec());
-	```
+```java
+	Specification.where(createNullableSpec()).and(createOtherSpec());
+```
 
 ## 5.6 정렬 지정하기
 
