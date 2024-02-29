@@ -75,14 +75,14 @@ public class MemoryOrderRepository implements OrderRepository {
 * not 메서드
 * where 메서드 : nullPointException 방지 가능
 ```java
-	Specification.where(createNullableSpec()).and(createOtherSpec());
+Specification.where(createNullableSpec()).and(createOtherSpec());
 ```
 
 ## 5.6 정렬 지정하기
 
 * 스프링 데이터 JPA는 아래 방법으로 정렬 지정 가능
-	* 1) 메서드 이름에 OrderBy 사용
-	* 2) Sort를 인자로 전달.
+	1) 메서드 이름에 OrderBy 사용
+	2) Sort를 인자로 전달
 * 2개 이상 프로퍼티 정렬 순서 지정 가능
 * 상황에 따라 정렬 순서 지정시 sort타입 인자로 전달, 두 sort 객체 연결 가능
 
