@@ -48,7 +48,8 @@ public class MemoryOrderRepository implements OrderRepository {
 		return allOrders.stream().filter(order -> spec.isSatisfiedBy(order)).toList();
 		
 	} 
-}```
+}
+```
 * 실제) 모든 애그리거트 객체 메모리 보관 어려움, 조회 성능 문제
 
 ## 5.3 스프링 데이터 JPA를 이용한 스펙 구현
