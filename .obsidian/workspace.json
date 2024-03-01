@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH6/CH6.md",
+                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ac363cae615f0710",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH6/CH6.md",
+                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH6/CH6.md",
+                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH6/CH6.md"
+                "file": "rigyeong/CH1/1.6 엔티티와 밸류.md"
               }
             }
           }
@@ -147,12 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "448855ab7e269f6d",
+  "active": "62867bbb91e10c48",
   "lastOpenFiles": [
+    "rigyeong/CH6/CH6.md",
     "rigyeong/CH6/Pasted image 20240301155415.png",
     "rigyeong/CH6",
     "rigyeong/CH5/CH5.md",
-    "rigyeong/CH6/CH6.md",
     "rigyeong/CH4/CH4.md",
     "rigyeong/CH3/CH3.md",
     "rigyeong/CH5",
@@ -182,7 +181,6 @@
     "rigyeong/CH2/Pasted image 20240208120033.png",
     "rigyeong/CH2/Pasted image 20240208115907.png",
     "rigyeong/CH2/Pasted image 20240208113924.png",
-    "rigyeong/CH2/Pasted image 20240208113332.png",
     "rigyeong/CH2",
     "eonju/CH1.md",
     "rigyeong/CH2/무제 파일.md",
