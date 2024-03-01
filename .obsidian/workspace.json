@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH3/CH3.md",
+                "file": "rigyeong/CH6/CH6.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ac363cae615f0710",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH3/CH3.md",
+                "file": "rigyeong/CH6/CH6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH3/CH3.md",
+                "file": "rigyeong/CH6/CH6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH3/CH3.md"
+                "file": "rigyeong/CH6/CH6.md"
               }
             }
           }
@@ -148,13 +149,13 @@
   },
   "active": "62867bbb91e10c48",
   "lastOpenFiles": [
+    "rigyeong/CH3/CH3.md",
     "rigyeong/CH1/1.6 엔티티와 밸류.md",
     "rigyeong/CH6/CH6.md",
     "rigyeong/CH6/Pasted image 20240301155415.png",
     "rigyeong/CH6",
     "rigyeong/CH5/CH5.md",
     "rigyeong/CH4/CH4.md",
-    "rigyeong/CH3/CH3.md",
     "rigyeong/CH5",
     "rigyeong/CH2/CH2.md",
     "rigyeong/CH3/image/Pasted image 20240211182015.png",
