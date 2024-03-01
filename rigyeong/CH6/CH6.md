@@ -1,7 +1,7 @@
 # 응용 서비스와 표현 영역
 
 ## 6.1 표현 영역과 응용 영역
-![[[Pasted image 20240301155415.png](https://github.com/rigyeonghong/FunDDD/blob/main/rigyeong/CH6/Pasted%20image%2020240301155415.png)]]
+![ch6](./Pasted image 20240301155415.png)
 * 표현 영역 : 사용자의 요청 해석. ex. url, 요청 파라미터, 쿠키, 헤더 등으로 사용자 원하는 기능 판별 후 응용서비스 실행.
 * 응용 영역 : 실제 사용자가 원하는 기능 제공.
 
