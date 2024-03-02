@@ -69,3 +69,14 @@
 	ex. 사용자 입력 폼 에러시
 		응용 서비스에서 에러 목록으로 모아 하나의 익셉션으로 발생시킴
 		-> 표현 영역은 에러 목록 가져와 표현 영역의 형태로 변환 처리.
+		```java
+		catch(ValidationErrorException e){
+			e.getErrors().forEach(err -> {
+				if(err.hasName()){
+					bindingResult.rejectValue ...
+				}
+			});
+			populateProductsModel(orderRequest, modelMap);
+			return "order/confirm";
+		}
+```
