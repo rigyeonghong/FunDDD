@@ -69,8 +69,8 @@
 	ex. 사용자 입력 폼 에러시
 		사용자 편의 위해 응용 서비스에서 에러 목록으로 모아 하나의 익셉션으로 발생시킴
 		-> 표현 영역은 에러 목록 가져와 표현 영역의 형태로 변환 처리.
-		```java
-		catch(ValidationErrorException e){
+```java
+        catch(ValidationErrorException e){
 			e.getErrors().forEach(err -> {
 				if(err.hasName()){
 					bindingResult.rejectValue(err.getName(), err.getCode());
@@ -78,12 +78,12 @@
 			});
 			populateProductsModel(orderRequest, modelMap);
 			return "order/confirm";
-		}
-		```
-	ex2. 표현 영역에서 필수 값 검증도 가능.
+		}```
+
+ex2. 표현 영역에서 필수 값 검증도 가능.
 		스프링 프레임워크 Validator 인터페이스 통해 간결하게 표현 가능.
 	
-	ex3. 구현의 편리함 위해 표현 영역과 응용 서비스가 값 나눠 수행.
+ex3. 구현의 편리함 위해 표현 영역과 응용 서비스가 값 나눠 수행.
 
 ## 6.6 권한 검사
 
