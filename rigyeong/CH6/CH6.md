@@ -78,7 +78,8 @@
 			});
 			populateProductsModel(orderRequest, modelMap);
 			return "order/confirm";
-		}```
+		}
+```
 
 ex2. 표현 영역에서 필수 값 검증도 가능.
 * 스프링 프레임워크 Validator 인터페이스 통해 간결하게 표현 가능.
