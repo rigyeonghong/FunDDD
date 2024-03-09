@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH6/CH6.md",
+                "file": "rigyeong/CH7/CH7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH6/CH6.md",
+                "file": "rigyeong/CH7/CH7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH6/CH6.md",
+                "file": "rigyeong/CH7/CH7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH6/CH6.md"
+                "file": "rigyeong/CH7/CH7.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "62867bbb91e10c48",
   "lastOpenFiles": [
-    "rigyeong/CH5/CH5.md",
     "rigyeong/CH6/CH6.md",
+    "rigyeong/CH7/CH7.md",
+    "rigyeong/CH11/CH11.md",
+    "rigyeong/CH11",
+    "rigyeong/CH7",
+    "rigyeong/CH5/CH5.md",
     "conflict-files-obsidian-git.md",
     "rigyeong/CH6/Pasted image 20240301155415.png",
     "rigyeong/CH3/CH3.md",
@@ -184,7 +188,6 @@
     "rigyeong/CH2",
     "eonju/CH1.md",
     "rigyeong/CH2/무제 파일.md",
-    "rigyeong/CH2",
     "seungeun/CH1.md",
     "yeji/CH1.md",
     "kenokim/CH01.md"
