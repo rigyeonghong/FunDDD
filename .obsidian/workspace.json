@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7d7c00ac3ed822ec",
+    "id": "fec10dc6f551a01d",
     "type": "split",
     "children": [
       {
-        "id": "c7ced28d50d53beb",
+        "id": "f440a82130a9b883",
         "type": "tabs",
         "children": [
           {
-            "id": "62867bbb91e10c48",
+            "id": "17f16a868d8e7b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH4/CH4.md",
+                "file": "rigyeong/CH9/CH9.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "23115b235d083051",
+    "id": "26999a0d1ca6b1f7",
     "type": "split",
     "children": [
       {
-        "id": "e016a9da6bced5b7",
+        "id": "7f70b3d1f3f9b8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "448855ab7e269f6d",
+            "id": "57be80c9f59eba1a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6c6b81c4dbcd686f",
+            "id": "e7f8023f88c34f16",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "271ef0731f871f18",
+            "id": "3552eefbb0395e06",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 200
   },
   "right": {
-    "id": "ac363cae615f0710",
+    "id": "71953243ab93a4cb",
     "type": "split",
     "children": [
       {
-        "id": "75d95dc179e2434c",
+        "id": "411fc823e4295ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "01069ceb2fcab3f2",
+            "id": "b20d2bca4ff3722e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH4/CH4.md",
+                "file": "rigyeong/CH9/CH9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "89a588b1a1403792",
+            "id": "fac04dd92047a10d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH4/CH4.md",
+                "file": "rigyeong/CH9/CH9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7d95099f81c3c8d4",
+            "id": "e0cf2cc892fac7a9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "846c82f3bfdef9f8",
+            "id": "a615fb8027727595",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH4/CH4.md"
+                "file": "rigyeong/CH9/CH9.md"
               }
             }
           }
@@ -138,58 +138,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "448855ab7e269f6d",
+  "active": "17f16a868d8e7b0d",
   "lastOpenFiles": [
-    "rigyeong/CH7/CH7.md",
-    "rigyeong/CH11/CH11.md",
-    "rigyeong/CH3/CH3.md",
-    "rigyeong/CH2/CH2.md",
     "rigyeong/CH6/CH6.md",
-    "rigyeong/CH11",
+    "rigyeong/CH9/CH9.md",
+    "rigyeong/CH9",
+    "rigyeong/CH7/CH7.md",
     "rigyeong/CH7",
-    "rigyeong/CH5/CH5.md",
-    "conflict-files-obsidian-git.md",
     "rigyeong/CH6/Pasted image 20240301155415.png",
-    "rigyeong/CH1/1.6 엔티티와 밸류.md",
     "rigyeong/CH6",
-    "rigyeong/CH4/CH4.md",
+    "rigyeong/CH11/CH11.md",
+    "rigyeong/CH11",
+    "rigyeong/CH5/CH5.md",
+    "rigyeong/CH1/1.6 엔티티와 밸류.md",
     "rigyeong/CH5",
-    "rigyeong/CH3/image/Pasted image 20240211182015.png",
+    "rigyeong/CH4/CH4.md",
     "rigyeong/CH4",
-    "rigyeong/CH1/1.4 도메인 모델 패턴.md",
-    "rigyeong/CH1/1.3 도메인 모델.md",
-    "rigyeong/CH1/1.2 도메인 전문가와 개발자 간 지식 공유.md",
-    "rigyeong/CH1/1.1 도메인이란.md",
-    "rigyeong/CH1/CH1.md",
-    "rigyeong/CH1/1.7 도메인 용어와 유비쿼터스 언어.md",
-    "rigyeong/CH1/1.5 도메인 모델  도출.md",
-    "rigyeong/CH3/image",
-    "새 텍스트 문서.txt",
-    "무제 파일.md",
-    "~$README.md",
-    "rigyeong/CH3/image",
-    "rigyeong/CH3",
-    "rigyeong/CH2/Pasted image 20240207215911.png",
     "rigyeong/CH2/Pasted image 20240208133620.png",
     "rigyeong/CH2/Pasted image 20240208131144.png",
     "rigyeong/CH2/Pasted image 20240208121555.png",
     "rigyeong/CH2/Pasted image 20240208120421.png",
     "rigyeong/CH2/Pasted image 20240208120033.png",
-    "rigyeong/CH2/Pasted image 20240208115907.png",
     "rigyeong/CH2/Pasted image 20240208113924.png",
+    "rigyeong/CH2/Pasted image 20240208113332.png",
+    "rigyeong/CH2/Pasted image 20240207215911.png",
+    "rigyeong/CH2/CH2.md",
     "rigyeong/CH2",
-    "eonju/CH1.md",
-    "rigyeong/CH2/무제 파일.md",
-    "seungeun/CH1.md",
-    "yeji/CH1.md",
-    "kenokim/CH01.md"
+    "rigyeong/CH3/CH3.md",
+    "rigyeong/CH3/image/Pasted image 20240211182015.png",
+    "rigyeong/CH3/image",
+    "rigye.md",
+    "Pasted.md",
+    "rigyeong/CH3"
   ]
 }
