@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rigyeong/CH9/CH9.md",
+                "file": "rigyeong/CH10/CH10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rigyeong/CH9/CH9.md",
+                "file": "rigyeong/CH10/CH10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rigyeong/CH9/CH9.md",
+                "file": "rigyeong/CH10/CH10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rigyeong/CH9/CH9.md"
+                "file": "rigyeong/CH10/CH10.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "17f16a868d8e7b0d",
   "lastOpenFiles": [
-    "rigyeong/CH6/CH6.md",
     "rigyeong/CH9/CH9.md",
+    "rigyeong/CH10/CH10.md",
+    "rigyeong/CH10",
+    "rigyeong/CH6/CH6.md",
     "rigyeong/CH9",
     "rigyeong/CH7/CH7.md",
     "rigyeong/CH7",
